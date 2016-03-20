@@ -10,7 +10,6 @@
     <files>
 		<filename plugin="platron">platron.php</filename>
 		<filename>index.html</filename>
-		<filename>platron.gif</filename>
 		<filename>PG_Signature.php</filename>
     </files>
 	<languages>
